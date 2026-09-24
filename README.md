@@ -19,6 +19,6 @@ Once the page has loaded, you will see the JSON format of this policy
 <img width="1494" height="392" alt="image" src="https://github.com/user-attachments/assets/49c3959c-672f-4439-9b1d-92b2277f73f8" />
 Effect ("Allow"): Specifies whether permissions are granted or denied
 
-Action ("*"): Defines the permitted actions ("*") grants access to all AWS actions)
+Action ("asterick"): Defines the permitted actions ("asterick") grants access to all AWS actions)
 
-Resource ("*"): Identifies the target AWS resources to which the actions apply ("*") applies permissions to all resources)
+Resource ("asterick"): Identifies the target AWS resources to which the actions apply ("asterick") applies permissions to all resources)
