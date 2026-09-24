@@ -13,3 +13,5 @@ Once you select the policy, it will display its details. IAM policies define all
 
 In this scenario, we are working with AdministratorAccess so this allows access to all the services in AWS and the Access level is set to Full access
 <img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/f9661b30-91d0-4178-9bcb-32aadb0f75d3" />
+You can see how this policy is defined by right-clicking the JSON tab
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ed44dd9-f9eb-4c1a-9c73-c850eaa7c9ba" />
