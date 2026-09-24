@@ -10,4 +10,6 @@ On the left navigation pane, under Access Management, select Policies
 This page displays the Policies section of the AWS Identity and Access Management console. For this example, I will be selecting the AdministratorAccess policy
 <img width="971" height="1078" alt="image" src="https://github.com/user-attachments/assets/1e743b40-2471-4a20-b190-71c8c46af9f9" />
 Once you select the policy, it will display its details. IAM policies define allowed or denied AWS actions and grant permissions once attached to an IAM User, Group, or Role
-In this scenario we ar working with AdministratorAccess
+
+In this scenario, we are working with AdministratorAccess so this allows access to all the services in AWS and the Access level is set to Full access
+<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/f9661b30-91d0-4178-9bcb-32aadb0f75d3" />
