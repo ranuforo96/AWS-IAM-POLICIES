@@ -8,4 +8,3 @@ In the search bar, type IAM and select the service
 On the left navigation pane, under Access Management, select Policies
 <img width="962" height="1033" alt="image" src="https://github.com/user-attachments/assets/da9573b4-2a75-4246-ac42-82995a98e09e" />
 This page displays the Policies section of the AWS Identity and Access Management console. For this example, I will be selecting the AdministratorAccess policy
-<img width="959" height="1037" alt="image" src="https://github.com/user-attachments/assets/67cc57ca-9c88-4310-a103-ad2e56c4afc
