@@ -17,6 +17,10 @@ You can see how this policy is defined by right-clicking the JSON tab
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ed44dd9-f9eb-4c1a-9c73-c850eaa7c9ba" />
 Once the page has loaded, you will see the JSON format of this policy
 <img width="1494" height="392" alt="image" src="https://github.com/user-attachments/assets/49c3959c-672f-4439-9b1d-92b2277f73f8" />
+Version: Specifies the IAM policy language version. 2012-10-17 is the current standard version and enables advanced features like policy variables
+
+Statement: The main container for the policy rules. This can hold multiple individual permission blocks inside an array []
+
 Effect ("Allow"): Specifies whether permissions are granted or denied
 
 Action ("asterick"): Defines the permitted actions, while the "asterick" grants access to all AWS actions)
