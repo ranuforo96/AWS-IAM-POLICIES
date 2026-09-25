@@ -23,6 +23,7 @@ Action ("asterick"): Defines the permitted actions, while the "asterick" grants 
 
 Resource ("asterick"): Identifies the target AWS resources to which the actions apply. The "asterick" applies permissions to all resources
 
+
 For comparison, I will use the IAMReadOnlyAccess policy, showing the allowed services, access level, and its defined JSON format
 
 In this screenshot, you can see that there is only one allowed service and the access level is set to Full: List Limited: Read
