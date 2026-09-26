@@ -23,9 +23,9 @@ Statement: The main container for the policy rules. This can hold multiple indiv
 
 Effect ("Allow"): Specifies whether permissions are granted or denied
 
-Action ("asterick"): Defines the permitted actions, while the "asterick" grants access to all AWS actions)
+Action ("asterisk"): Defines the permitted actions, while the "asterick" grants access to all AWS actions)
 
-Resource ("asterick"): Identifies the target AWS resources to which the actions apply. The "asterick" applies permissions to all resources
+Resource ("asterisk"): Identifies the target AWS resources to which the actions apply. The "asterick" applies permissions to all resources
 
 
 For comparison, I will use the IAMReadOnlyAccess policy, showing the allowed services, access level, and its defined JSON format
@@ -43,4 +43,4 @@ Get*: Allows actions beginning with Get, such as GetUser and GetGroup
 
 List*: Allows actions beginning with List, such as ListUsers and ListGroups
 
-* wildcard: Groups multiple related API actions without having to specify each one individually
+The asterisk wildcard: Groups multiple related API actions without having to specify each one individually
