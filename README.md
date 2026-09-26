@@ -97,6 +97,15 @@ Here you can fill out the policy details by creating a name for the policy and c
 
 <img width="537" height="519" alt="image" src="https://github.com/user-attachments/assets/3a4db55c-2136-4fb4-8468-30a785581cda" />
 
-Review the permissions defined in this policy before continuing with the Create policy button below
+Review the permissions that you defined in this policy before continuing with the Create policy button below
 
 <img width="1489" height="642" alt="image" src="https://github.com/user-attachments/assets/b4341293-9ee8-4920-a2e0-9e75069b28a5" />
+
+After right-clicking Create policy you should have successfully created your policy
+
+<img width="1920" height="408" alt="image" src="https://github.com/user-attachments/assets/23850301-2662-4fad-8807-ffa1d0298037" />
+
+After creating your policy you can open your newly created policy and see the corresponding JSON
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81c60cb6-532d-4443-9059-ebc875415268" />
+
