@@ -89,5 +89,7 @@ Then, scroll down and specify whether you want to authorize access to all resour
 
 <img width="541" height="631" alt="image" src="https://github.com/user-attachments/assets/80ab23cb-59ee-4572-ae3c-0309694bde64" />
 
+You should then be taken to the review and create section
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7354f9e9-661b-4a94-b234-823cc37b3788" />
 
