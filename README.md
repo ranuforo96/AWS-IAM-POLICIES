@@ -85,3 +85,9 @@ After selecting IAM, you can search and filter the actions for the service you w
 
 <img width="555" height="655" alt="image" src="https://github.com/user-attachments/assets/ecc5304e-0264-4985-baad-df307d775f02" />
 
+Then, scroll down and specify whether you want to authorize access to all resources or only specific resources. For this demonstration, I’ll select all resources for convenience and right-click Next to continue
+
+<img width="541" height="631" alt="image" src="https://github.com/user-attachments/assets/80ab23cb-59ee-4572-ae3c-0309694bde64" />
+
+
+
