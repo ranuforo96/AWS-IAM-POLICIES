@@ -48,7 +48,9 @@ List*: Allows actions beginning with List, such as ListUsers and ListGroups
 The asterisk wildcard: Groups multiple related API actions without having to specify each one individually
 
 You can also create your own policy by going to the Policies tab after accessing the IAM service and selecting Create policy at the top of the page
+
 <img width="942" height="577" alt="image" src="https://github.com/user-attachments/assets/2eeae40d-280a-43b2-bd67-f6376f91262a" />
+
 The policy can be created using either the Visual Editor or JSON Editor
 
 If you’re working with JSON, you can easily configure the policy directly in the JSON editor:
