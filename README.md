@@ -34,6 +34,7 @@ In this screenshot, you can see that there is only one allowed service and the a
 <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/f8f33616-55cf-43f0-a767-a999d3d4688e" />
 If you right-click the JSON tab, you will see how the IAMReadOnlyAccess is defined
 <img width="958" height="1036" alt="image" src="https://github.com/user-attachments/assets/985e3063-5f32-4d8a-8fb4-5444114ab4da" />
+
 In this Statement, the Effect is set to allow and the Action lists out the API calls that are being allowed, which can be seen in the screenshot below:
 
 <img width="428" height="192" alt="image" src="https://github.com/user-attachments/assets/f72f0927-3efc-4546-8ae8-03818fc3de3f" />
