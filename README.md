@@ -50,4 +50,4 @@ You can also create your own policy by going to the Policies tab after accessing
 The policy can be created using either the Visual Editor or JSON Editor
 
 If you’re working with JSON, you can easily configure the policy and build your JSON document directly using the editor:
-<img width="1293" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ff2a3dc-2c55-434d-98ed-2171982e3ad0" />
+<img width="1263" height="800" alt="image" src="https://github.com/user-attachments/assets/25dacb88-b33f-49c3-8194-3f99be3f71e0" />
