@@ -25,7 +25,7 @@ Effect ("Allow"): Specifies whether permissions are granted or denied
 
 Action ("asterisk"): Defines the permitted actions, while the "asterick" grants access to all AWS actions)
 
-Resource ("asterisk"): Identifies the target AWS resources to which the actions apply. The "asterick" applies permissions to all resources
+Resource ("asterisk"): Identifies the target AWS resources to which the actions apply. The "asterisk" applies permissions to all resources
 
 
 For comparison, I will use the IAMReadOnlyAccess policy, showing the allowed services, access level, and its defined JSON format
