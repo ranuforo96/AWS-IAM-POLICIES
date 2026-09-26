@@ -109,3 +109,8 @@ After creating your policy you can open your newly created policy and see the co
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81c60cb6-532d-4443-9059-ebc875415268" />
 
+"Sid": "VisualEditor0": Sid" stands for Statement ID. It is an optional, descriptive label you give to this specific block of rules. In this case, VisualEditor0 means the policy was generated using the visual editor interface
+
+The Effect says we allowed the Actions "iam:ListUsers" and "iam:GetUser" for all resources using *
+
+This policy can now be attached to IAM users, groups, or roles
