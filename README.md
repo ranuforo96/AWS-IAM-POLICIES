@@ -93,3 +93,4 @@ You should then be taken to the review and create section
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7354f9e9-661b-4a94-b234-823cc37b3788" />
 
+Here you can fill out the policy details by creating a name for the policy and create a brief description
