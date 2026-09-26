@@ -93,4 +93,10 @@ You should then be taken to the review and create section
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7354f9e9-661b-4a94-b234-823cc37b3788" />
 
-Here you can fill out the policy details by creating a name for the policy and create a brief description
+Here you can fill out the policy details by creating a name for the policy and create an optional description
+
+<img width="537" height="519" alt="image" src="https://github.com/user-attachments/assets/3a4db55c-2136-4fb4-8468-30a785581cda" />
+
+Review the permissions defined in this policy before continuing with the Create policy button below
+
+<img width="1489" height="642" alt="image" src="https://github.com/user-attachments/assets/b4341293-9ee8-4920-a2e0-9e75069b28a5" />
