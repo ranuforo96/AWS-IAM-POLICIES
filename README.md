@@ -49,5 +49,5 @@ You can also create your own policy by going to the Policies tab after accessing
 <img width="942" height="577" alt="image" src="https://github.com/user-attachments/assets/2eeae40d-280a-43b2-bd67-f6376f91262a" />
 The policy can be created using either the Visual Editor or JSON Editor
 
-If you’re working with JSON, you can easily configure the policy and build your JSON document directly using the editor:
+If you’re working with JSON, you can easily configure the policy directly in the JSON editor:
 <img width="1263" height="800" alt="image" src="https://github.com/user-attachments/assets/25dacb88-b33f-49c3-8194-3f99be3f71e0" />
