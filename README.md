@@ -51,3 +51,4 @@ The policy can be created using either the Visual Editor or JSON Editor
 
 If you’re working with JSON, you can easily configure the policy directly in the JSON editor:
 <img width="1263" height="800" alt="image" src="https://github.com/user-attachments/assets/25dacb88-b33f-49c3-8194-3f99be3f71e0" />
+Or you can use the Visual editor as I will use for this example:
