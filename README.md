@@ -72,4 +72,10 @@ The policy can be created using either the Visual Editor or JSON Editor
 
 If you’re working with JSON, you can easily configure the policy directly in the JSON editor:
 <img width="1263" height="800" alt="image" src="https://github.com/user-attachments/assets/25dacb88-b33f-49c3-8194-3f99be3f71e0" />
-Or you can use the Visual editor, as I will use for this example:
+
+Alternatively, you can use the Visual editor, which I’ll use in this example to create the policy
+
+First, I’ll select a service. For this example, I’ll choose IAM
+
+<img width="960" height="1026" alt="image" src="https://github.com/user-attachments/assets/57a3085e-5529-4bf4-9c77-8672a5abe67c" />
+
