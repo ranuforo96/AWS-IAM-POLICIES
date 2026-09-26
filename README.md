@@ -79,3 +79,9 @@ First, I’ll select a service. For this example, I’ll choose IAM
 
 <img width="960" height="1026" alt="image" src="https://github.com/user-attachments/assets/57a3085e-5529-4bf4-9c77-8672a5abe67c" />
 
+After selecting IAM, you can search and filter the actions for the service you want to allow. For this example, I chose ListUser and GetUser
+
+<img width="554" height="669" alt="image" src="https://github.com/user-attachments/assets/714b6023-94eb-4dca-bab6-f2a7fe2c3f23" />
+
+<img width="555" height="655" alt="image" src="https://github.com/user-attachments/assets/ecc5304e-0264-4985-baad-df307d775f02" />
+
